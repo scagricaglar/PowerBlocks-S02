@@ -1,0 +1,16 @@
+isim: cagri
+boy: 179
+evli: true
+isverenler:
+  - hpe
+  - veeam
+  - vmware
+araba:
+  marka: duldul
+  modelYili: 1980
+  ayagiYerdenKesiyorMu: true
+aile:
+  - isim: edi
+    boy: 150
+  - isim: budu
+    boy: 179

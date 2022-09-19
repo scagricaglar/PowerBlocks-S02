@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Alien",
+        "year": 1979,
+        "ids": {
+            "trakt": 296,
+            "slug": "alien-1979",
+            "imdb": "tt0078748",
+            "tmdb": 348
+        }
+    },
+    {
+        "title": "Life of Brian",
+        "year": 1979,
+        "ids": {
+            "trakt": 1459,
+            "slug": "life-of-brian-1979",
+            "imdb": "tt0079470",
+            "tmdb": 583
+        }
+    },
+    {
+        "title": "Escape from Alcatraz",
+        "year": 1979,
+        "ids": {
+            "trakt": 3101,
+            "slug": "escape-from-alcatraz-1979",
+            "imdb": "tt0079116",
+            "tmdb": 10734
+        }
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "ids": {
+            "trakt": 3644,
+            "slug": "apocalypse-now-1979",
+            "imdb": "tt0078788",
+            "tmdb": 28
+        }
+    },
+    {
+        "title": "Rocky II",
+        "year": 1979,
+        "ids": {
+            "trakt": 3242,
+            "slug": "rocky-ii-1979",
+            "imdb": "tt0079817",
+            "tmdb": 1367
+        }
+    },
+    {
+        "title": "Mad Max",
+        "year": 1979,
+        "ids": {
+            "trakt": 728,
+            "slug": "mad-max-1979",
+            "imdb": "tt0079501",
+            "tmdb": 9659
+        }
+    },
+    {
+        "title": "Moonraker",
+        "year": 1979,
+        "ids": {
+            "trakt": 2929,
+            "slug": "moonraker-1979",
+            "imdb": "tt0079574",
+            "tmdb": 698
+        }
+    },
+    {
+        "title": "Repmånad",
+        "year": 1979,
+        "ids": {
+            "trakt": 1425,
+            "slug": "repmanad-1979",
+            "imdb": "tt0079794",
+            "tmdb": 18142
+        }
+    },
+    {
+        "title": "Star Trek: The Motion Picture",
+        "year": 1979,
+        "ids": {
+            "trakt": 2859,
+            "slug": "star-trek-the-motion-picture-1979",
+            "imdb": "tt0079945",
+            "tmdb": 152
+        }
+    }
+]
