@@ -12,6 +12,7 @@ Her bir bölüme ait içeriği ilgili klasörde bulabilir ve dilediğinizce kull
 2. [API Sorguları & REST](./E02) - 20 Eylül 2022
    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/isqMP76rb9Q_F-cuUlXMoaBDz4DPJ1rvUmb1YWiI0Eye3XLrj5yH-QtGIWSVSmS_.e2aHK5Hffsjo7kop)  
 3. Programlamaya Giriş - 4 Ekim 2022
+   - [Kayıt Linki](https://VMware.zoom.us/webinar/register/6616631553490/WN_P1sqsuQZSq63-0h365Pw0g)
 4. PowerCLI & Scripting
 5. Orkestrasyon
 6. Infra-as-Code & Terraform
