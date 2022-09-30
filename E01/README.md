@@ -1,5 +1,10 @@
 # PowerBlock s02e01 - Obje, JSON ve YAML
 
+Bu bölümüde:
+- Pek çok modern otomasyon sürecinde ve aracında yaygın olan ‘obje’lerin ne olduğu, neden önemli olduğu ve nasıl kullanacağı ele alınmış,
+- Kompleks objeleri kolayca okuma yöntemlerine değinilmiş,
+- JSON obje yapısı ve YAML dili uygulamalı olarak incelennmiştir.
+
 Bu bölümde kullanılan çeşitli araçlara ait linkleri aşağıda, çeşitli kod örneklerini bu klasörde bulabilirsiniz.
 
 Kendinizi biraz zorlamak ve objeler konusunda biraz tecrübe edinmek isterseniz [Egzersiz](https://github.com/scagricaglar/PowerBlocks-S02/tree/main/E01/Egzersiz) klasöründeki uygulamalı örneği kullanabilirsiniz.

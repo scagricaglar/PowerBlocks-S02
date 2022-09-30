@@ -1,4 +1,9 @@
-# PowerBlock s02e01 - API Sorguları & REST
+# PowerBlock s02e02 - API Sorguları & REST
+
+Bu bölümde:
+- API’ların ne oldukları ve neden önemli oldukları hakkında konuştuk,
+- REST mimarisini öğrenirken bize çok yardımcı olacak araçları inceledik,
+- Uygulamalı olarak farklı yazılımlarla REST üzerinden konuştuk.
 
 Bu bölümde kullanılan çeşitli araçlara ait linkleri aşağıda, çeşitli kod örneklerini bu klasörde bulabilirsiniz.
 
