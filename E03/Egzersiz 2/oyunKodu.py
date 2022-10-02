@@ -57,4 +57,17 @@ bolum = cevap(bolum, a)
 a = sayiKirici(a)
 bolum = cevap(bolum, a)
 
+a = a + len(liste[2])
+bolum = cevap(bolum, a)
+
+for i in range(2):
+    a = a+i
+bolum = cevap(bolum, a)
+
+for i in range(3):
+    if a==27:
+        a = 1
+bolum = cevap(bolum, a)
+
+
 print(a)

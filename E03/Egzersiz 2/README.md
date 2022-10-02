@@ -60,13 +60,16 @@ Ve eğer son bölüme kadar tamamen kendiniz ulaşabildiyseniz, ve de ilk defa b
     a = sayiKirici(a)
     ```
 12. ```
-    a = 1
+    a = a + len(liste[2])
     ```
 13. ```
-    a = 1
+    for i in range(2):
+        a = a+i
     ```
 14. ```
-    a = 1
+    for i in range(3):
+        if a==27:
+            a = 1
     ```
 15. ```
     a = 1
