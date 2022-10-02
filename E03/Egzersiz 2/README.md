@@ -8,6 +8,8 @@ Son bölümler aramızdaki en tecrübeliler için dahi zorlayıcı olabilir. Ama
 
 Ve eğer son bölüme kadar tamamen kendiniz ulaşabildiyseniz, ve de ilk defa böyle bir egzersiz yapıyorsanız, canı gönülden tebrikler; bence burada bırakmayın, çok iyi yazılımcı olur sizden.
 
+[Cevaplar](./cevaplar.txt) burada. Eğer cevapları oluşturan kodu görmek isterseniz, o da [burada](./oyunKodu.py).
+
 1. ```
    a = 1
    ```
@@ -67,25 +69,51 @@ Ve eğer son bölüme kadar tamamen kendiniz ulaşabildiyseniz, ve de ilk defa b
         a = a+i
     ```
 14. ```
-    for i in range(3):
-        if a==27:
-            a = 1
+    for i in range(4):
+    if a==26:
+        a = 1
+    else:
+        a = a+i
     ```
 15. ```
-    a = 1
+    if a==4 and False:
+        a = 6
     ```
 16. ```
-    a = 1
+    if a==6 or True:
+        a = 20
     ```
 17. ```
-    a = 1
+    obje = {
+        "oge1": [1,2,3],
+        "oge2": [2,3,4]
+    }
+    for oge in obje:
+        a = a+obje[oge][1]
     ```
 18. ```
-    a = 1
+    for oge in obje:
+    for eleman in obje[oge]:
+        if eleman == 2:
+            a = a+eleman
     ```
 19. ```
-    a = 1
+    butunListe = []
+
+    for oge in obje:
+        butunListe.extend(obje[oge])
+
+    for i in range(1,7):
+        a = a-butunListe.index(i)
+
     ```
 20. ```
-    a = 1
+    for i in range(3):
+        for j in range(len(obje)):
+            for k in range(len(obje['oge1'])):
+                if k < 1:
+                    l = 0
+                    while a<20 and l<1:
+                        a = a+i+j 
+                        l = l+1
     ```
