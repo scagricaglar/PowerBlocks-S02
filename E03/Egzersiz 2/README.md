@@ -2,9 +2,9 @@ Bu örnekte bir kod okuma egzersizi yapacağız. Egzersiz bölümlerden oluşaca
 
 Cevap her bölüm için aynı: O bölümdeki kod bloğu sonlandığında 'a' nın güncel değeri. 'a' nın başlangıç değeri ise bir öncek bölümden geliyor.
 
-Tavsiyem oturup elinize bir kağıt kalem alıp her bir bölüm için cevaplarınızı yaza yaza ilerlemenizdir. Cevaplara ise ancak bir noktada gerçekten tıkanmadığınız ya da tüm bölümleri bitirmediğiniz sürece bakmananızı rica edeceğim.
+Tavsiyem, oturup elinize bir kağıt kalem alıp her bir bölüm için cevaplarınızı yaza yaza ilerlemenizdir. Cevaplara ise ancak bir noktada gerçekten tıkanmadığınız ya da tüm bölümleri bitirmediğiniz sürece bakmananızı rica edeceğim.
 
-Son bölümler aramızdaki en tecrübeliler için dahi zorlayıcı olabilir. Amaç ne kadar ilerleyebildiğiniz görmeniz.
+Son bölümler aramızdaki en tecrübeliler için dahi zorlayıcı olabilir. Amaç biraz kendimizi zorlamak ve ne kadar ilerleyebildiğimizi görmek.
 
 Ve eğer son bölüme kadar tamamen kendiniz ulaşabildiyseniz, ve de ilk defa böyle bir egzersiz yapıyorsanız, canı gönülden tebrikler; bence burada bırakmayın, çok iyi yazılımcı olur sizden.
 
