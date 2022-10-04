@@ -103,7 +103,7 @@ Ve eğer son bölüme kadar tamamen kendiniz ulaşabildiyseniz, ve de ilk defa b
     ```
     obje = {
         "oge1": [1,2,3],
-        "oge2": [2,3,4]
+        "oge2": [4,5,6]
     }
     for oge in obje:
         a = a+obje[oge][1]
