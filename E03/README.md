@@ -24,7 +24,7 @@ Bu bölümde kullanılan çeşitli araçlara ait linkleri aşağıda, çeşitli 
    - 20 bölüm, her biri diğerinden daha zor
    - Ne kadar ilerleyebileceksiniz?
 
-##Kaynaklar:
+## Kaynaklar:
 - [Visual Studio Code](https://code.visualstudio.com)
 
    Eğer bugüne kadar kullanmadıysanız, bu hafta bilgisayarınıza Code kurmak için doğru zaman olabilir. Geç olsun da güç olmasın. VS Code; çok yaygın, çok güçlü ancak son derece az sistem kaynağı tüketen bir IDE (Integrated Development Environment). 
