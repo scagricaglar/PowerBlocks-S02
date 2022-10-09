@@ -1,3 +1,9 @@
+## Bu script bir önceki Custom Attribute örneğine benzer ancak daha gelişmiş bir örnektir. 
+## Çeşitli hata kontrolleri ve durum bilgilendirmeleri eklenmiştir. 
+## Bu örnek için kullanılması öngörülmüş CVS dosyasında başlık satırı bulanmaktadır. Dosya 2 sütunlu olmak zorunda değildir ve birden fazla 'key' ait değer içerebilir.
+
+
+## Script input parametreleri. Bu örnekte 'hardcoded' olarak kullanılan bu değerler input parametresine çevrilebilir.
 $vCenter = "vc.muaddib.lab" #Baglanti kurulacak vCenter adresi
 $user = "administrator@vsphere.local" #vCenter kullanici ismi. Tag yonetimi ve VM listesine ulasma yetkisi olmalidir
 $password = "" #Kullanici sifresi. Bu deger bos birakilirsa calisma sirasinda sorulacaktir
@@ -5,7 +11,7 @@ $filePath = "/Users/cagri/Desktop/sahipListesi.csv" #Key value'larinin ve VM isi
 $fileVmNameHeader = "VM ismi" #Dosyada VM ismini iceren sutunun basligi
 $fileValueHeader = "Sahip" #Dosyada key'e ait value'yu iceren sutunun basligi
 $tagCategoryName = "Sahip" #vCenter uzerinde olusturulacak/guncellenecek key
-$batchLimit = 10 #Bir seferde islem yapilacak VM adedi. Dosyada daha fazla satir yer aliyorsa, goz ardi edilecektir
+$batchLimit = 10 #Bir seferde islem yapilacak VM adedi. Dosyada daha fazla satir yer aliyorsa, goz ardi edilecektir. Test ve kontrol amaçlı kullanılabilir.
 
 if ($password.Length -eq 0) #Sifre script basinde yer almiyorsa
 {

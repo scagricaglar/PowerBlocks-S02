@@ -36,8 +36,8 @@ if ($poolSorguSonucu.Results.Length -eq 0)
 $dogruPool = $poolSorguSonucu.Results[0]
 $dogruPoolId = $dogruPool.Id
 
-$destopService = New-Object VMware.Hv.DesktopService
-$mevcutDurum = $destopService.Desktop_Get($horizonAPI,$dogruPoolId).DesktopSettings.Enabled
+$desktopService = New-Object VMware.Hv.DesktopService
+$mevcutDurum = $desktopService.Desktop_Get($horizonAPI,$dogruPoolId).DesktopSettings.Enabled
 
 if ($mevcutDurum)
 {
