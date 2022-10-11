@@ -7,12 +7,14 @@ Bu bölümde:
 
 Bu bölümde kullanılan çeşitli araçlara ait linkleri aşağıda, çeşitli kod örneklerini bu klasörde bulabilirsiniz.
 
-Biz konularda ilerledikçe, herkes tarafından hiç bir şeye zarar verme riski olmadan yapılabilecek egzersizler hazırlamak imkansız hale geldi. Bu haftadan itibaren egzersizler azalacak ve yerlerini örneklere bırakacak. Artık inceleyeceğimiz araçlar ve de araçların etkileşeceği bileşenler de yine tüm katılımcılarımızın elinin altında bulunmayabilir. Dolayısı bundan sonra sizlere ücretsiz olarak erişip faydalanabileceğiniz ve o haftaki konuya yönelik araçları barındıran VMware Hands-on-Lab ortamları önereceğiz. Aşağıdaki ['Egzerzsizler'](#egzersizler) başlığında HoL'a erişim ve kayıt ile ilgili yönergeleri bulabilirisiniz.
+Biz konularda ilerledikçe, herkes tarafından hiç bir şeye zarar verme riski olmadan yapılabilecek egzersizler hazırlamak imkansız hale geldi. Bu haftadan itibaren egzersizler azalacak ve yerlerini örneklere bırakacak.
+
+Artık inceleyeceğimiz araçlar ve de araçların etkileşeceği bileşenler de yine tüm katılımcılarımızın elinin altında bulunmayabilir. Dolayısı bundan sonra sizlere ücretsiz olarak erişip faydalanabileceğiniz ve o haftaki konuya yönelik araçları barındıran VMware Hands-on-Lab ortamları önereceğiz. Aşağıdaki ['Egzerzsizler'](#egzersizler) başlığında HoL'a erişim ve kayıt ile ilgili yönergeleri bulabilirisiniz.
 
 ## Örnekler:
 Bu haftaki [örnekler](./Ornekler/) klasöründe farklı dönemlerde farklı müşteri taleplerine yönelik olarak hazırlanmış PowerCLI tabanlı PowerShell script'leri bulacaksınız.
 
-Bu örnekleri incelemekte ve direk ya da kısmi olarak dilediğiniz şekilde faydalanmakta özgürsünüz. Ancak paylaşılan kodların yalnızca birer 'örnek' olduklarını, kötü uygulamalar da barındırabileceklerini, her ortamda doğru ve istenen şekilde çalışacaklarının herhangi bir garantisi olmadığını ve kullanımları ile her türlü sorumluluk ve riskin size ait olduğunu lütfen unutmayın.
+Bu örnekleri incelemekte ve direk ya da kısmi olarak dilediğiniz şekilde faydalanmakta özgürsünüz. Ancak paylaşılan kodların yalnızca birer 'örnek' olduklarını, kötü uygulamalar da barındırabileceklerini, her ortamda doğru ve istenen şekilde çalışacaklarının herhangi bir garantisi olmadığını ve kullanımları ile ilgili her türlü sorumluluk ve riskin size ait olduğunu lütfen unutmayın.
 
 - Sanal makine tag ve Custome Attribute yönetimi. Toplu Tag ekleme için düşünülmüştür.
   - [CSV dosyasındaki key:value çiflerini vCenter'a Custom Attribute olarak ekle](./Ornekler/Append%20vCenter%20Custom%20Attributes%20from%20CSV.ps1)
@@ -30,13 +32,15 @@ Bu örnekleri incelemekte ve direk ya da kısmi olarak dilediğiniz şekilde fay
 ## Egzersizler:
 [VMware Pathfinder](https://pathfinder.vmware.com) tüm VMware çözümlerine için ürünleri yakından tanıyabileceğiniz interaktif demolar, rehberler, bilgi seviyenizi ölçebileceğiniz 'oyunlar' ve temel eğitimler içeren çok zengin bir kaynak.
 
-Pathfinder'ın Hands-on-Labs isimli özelliği ise bu haftadan itibaren bizlere egzersizler için çok yardımcı olacak. HoL'lar, özetle, bize kısa süreli ancak o süre içinde isteğimizi yapabilaceğimiz gerçek test ortamları sağlayacak. Çoğu HoL VMware tarafından size belli bir kullanım senaryosunu aktarmak için hazırlanıyor. Dolayısı ile her HoL ortamında ilgili kullanım senaryosuna yönelik olarak farklı çözümler yer alabiliyor ve size adımları takip edebileceğiniz bir rehber sunuluyor. Pek tabii ki sunulan adımları takip edip etmek konusunda tamamen özgürsünüz.
+Pathfinder'ın Hands-on-Labs isimli özelliği ise bu haftadan itibaren bizlere egzersizler için çok yardımcı olacak. HoL'lar, özetle, bize kısa süreli ancak o süre içinde isteğimizi yapabilaceğimiz gerçek test ortamları sağlayacak.
 
-Bu hafta için önereceğimiz HoL '[vSphere Lightning Hands-on Lab - HOL-2211-91-SDC](https://pathfinder.vmware.com/activity/hands_on_with_vsphere_6_7)'. Bu test ortamında sizin için oluşturulmuş ve varsayılan olarak 90 dakika boyunca istediğiniz şekilde kullanabileceğiniz küçük bir vSphere kurulumu bulacaksınız. Lab ortamında ayrıcal VS Code ve PowerCLI da kurulu. Dolayısı ile ortamda gönlünüzce PowerCLI denemesi yapabilirsiniz.
+Çoğu HoL VMware tarafından size belli bir kullanım senaryosunu aktarmak için hazırlanıyor. Dolayısı ile her HoL ortamında ilgili kullanım senaryosuna yönelik olarak farklı çözümler yer alabiliyor ve size adımları takip edebileceğiniz bir rehber sunuluyor. Pek tabii ki sunulan adımları takip edip etmemek konusunda tamamen özgürsünüz.
 
-Yukarı linke tıklayıp **START** düğmesinde sizden giriş yapmanızı ya da kayıt olmanızı isteyen yeni bir pencere açılacak. Pathfinder'ı daha önce kayıt olmadıysanız buradaki bilgileri doldurarak hesabınızı oluşturabilirsiniz. Ardından size ait test ortamı bir kaç dakika için ayağa kaldırılacak ve web tarayıcınız üzerinden ortamdaki bir sanal makinenin masa üstüne bağlanabileceksiniz.
+Bu hafta için önereceğimiz HoL '[vSphere Lightning Hands-on Lab - HOL-2211-91-SDC](https://pathfinder.vmware.com/activity/hands_on_with_vsphere_6_7)'. Bu test ortamında sizin için oluşturulmuş ve 90 dakika boyunca istediğiniz şekilde kullanabileceğiniz küçük bir vSphere kurulumu bulacaksınız. Lab ortamında ayrıcal VS Code ve PowerCLI da kurulu. Dolayısı ile ortamda gönlünüzce PowerCLI denemesi yapabilirsiniz.
 
-Güvenlik nedeniyle ortam içindeki pano ve internet erişimi kısıtlanmış olacak. Ancak test ortamına dışarıdan birşey yapıştırmak isterseniz (mesela örnek script'lerden birini), web arayüzünün sol üst köşesindeki 'Send Test' düğmesini kullanabilirsiniz. 
+Yukarı linke tıklayıp **START** düğmesin bastığınızda, sizden giriş yapmanızı ya da kayıt olmanızı isteyen yeni bir pencere açılacak. Pathfinder'a daha önce kayıt olmadıysanız burada istenen bilgileri doldurarak hesabınızı oluşturabilirsiniz. Ardından size ait test ortamı bir kaç dakika için ayağa kaldırılacak ve web tarayıcınız üzerinden ortamdaki bir sanal makinenin masa üstüne bağlanabileceksiniz.
+
+Güvenlik nedeniyle ortam içindeki pano ve internet erişimi kısıtlanmış olacak. Ancak test ortamına dışarıdan birşey yapıştırmak isterseniz (mesela örnek script'lerden birini), web arayüzünün sol üst köşesindeki 'Send Text' düğmesini kullanabilirsiniz. 
 
 ## Kaynaklar:
 - [Visual Studio Code](https://code.visualstudio.com)
