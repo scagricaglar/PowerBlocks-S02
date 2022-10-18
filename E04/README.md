@@ -38,7 +38,7 @@ Pathfinder'ın Hands-on-Labs isimli özelliği ise bu haftadan itibaren bizlere 
 
 Bu hafta için önereceğimiz HoL '[vSphere Lightning Hands-on Lab - HOL-2211-91-SDC](https://pathfinder.vmware.com/activity/hands_on_with_vsphere_6_7)'. Bu test ortamında sizin için oluşturulmuş ve 90 dakika boyunca istediğiniz şekilde kullanabileceğiniz küçük bir vSphere kurulumu bulacaksınız. Lab ortamında ayrıcal VS Code ve PowerCLI da kurulu. Dolayısı ile ortamda gönlünüzce PowerCLI denemesi yapabilirsiniz.
 
-Yukarı linke tıklayıp **START** düğmesin bastığınızda, sizden giriş yapmanızı ya da kayıt olmanızı isteyen yeni bir pencere açılacak. Pathfinder'a daha önce kayıt olmadıysanız burada istenen bilgileri doldurarak hesabınızı oluşturabilirsiniz. Ardından size ait test ortamı bir kaç dakika için ayağa kaldırılacak ve web tarayıcınız üzerinden ortamdaki bir sanal makinenin masa üstüne bağlanabileceksiniz.
+Yukarıdaki linke tıklayıp **START** düğmesin bastığınızda, sizden giriş yapmanızı ya da kayıt olmanızı isteyen yeni bir pencere açılacak. Pathfinder'a daha önce kayıt olmadıysanız burada istenen bilgileri doldurarak hesabınızı oluşturabilirsiniz. Ardından size ait test ortamı bir kaç dakika için ayağa kaldırılacak ve web tarayıcınız üzerinden ortamdaki bir sanal makinenin masa üstüne bağlanabileceksiniz.
 
 Güvenlik nedeniyle ortam içindeki pano ve internet erişimi kısıtlanmış olacak. Ancak test ortamına dışarıdan birşey yapıştırmak isterseniz (mesela örnek script'lerden birini), web arayüzünün sol üst köşesindeki 'Send Text' düğmesini kullanabilirsiniz. 
 
