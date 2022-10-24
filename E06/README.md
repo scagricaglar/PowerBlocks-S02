@@ -27,6 +27,9 @@ HoL linkine tıklayıp **START** düğmesin bastığınızda, sizden giriş yapm
 Güvenlik nedeniyle ortam içindeki pano ve internet erişimi kısıtlanmış olacak. Ancak test ortamına dışarıdan birşey yapıştırmak isterseniz (mesela örnek script'lerden birini), web arayüzünün sol üst köşesindeki 'Send Text' düğmesini kullanabilirsiniz.
 
 ## Örnekler:
-Bu haftaki [örnekler](./Ornekler/) klasöründe kendi ortamınızda da kullanabileceğiniz, basit sanal makine oluşturmaya yarayacak bir Terraform taslağı bulacaksınız. Daha fazla detayı örneğin [beni oku]() dosyasında bulabilirsiniz.
+Bu haftaki [örnekler](./Ornekler/) klasöründe kendi ortamınızda da kullanabileceğiniz, basit sanal makine oluşturmaya yarayacak bir Terraform taslağı bulacaksınız. Daha fazla detayı örneğin [beni oku](./Ornekler/vSphere%20with%20Terraform/README.md) dosyasında bulabilirsiniz.
 
-## Kaynaklar:
+## Kaynaklar
+- [Learn Cloud Assembly](https://learncloudassembly.github.io/)
+- [Terraform Kurulumu](https://developer.hashicorp.com/terraform/downloads)
+- [HashiCorp Terraform Eğitimleri](https://developer.hashicorp.com/terraform/tutorials#get-started)
