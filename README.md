@@ -17,7 +17,7 @@ Her bir bölüme ait içeriği ilgili klasörde bulabilir ve dilediğinizce kull
    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/gccjlPaOD2O6x9ckAhpqh4_VomYtVliqBbfw3voOT6f33O7O8Mnp9VMYg1qlyODA.egJGcrIOaqkXZo8R)
 5. [Orkestrasyon](./E05) - 19 Ekim 2022
    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/lIh0_55v4niWSbAlNFwsFlLtDHOeuBW-8pBIgB-gFD4rmB5lxpmeg9nr0AIse8el.nt_gl-ao6OvTm3uK)
-6. Infra-as-Code & Terraform - 25 Ekim 2022
+6. [Infra-as-Code & Terraform](./E06) - 25 Ekim 2022
    - [Kayıt Linki](https://VMware.zoom.us/webinar/register/6616631553490/WN_oF5N9RjSR4W8CPNiRis2Cg)
 7. Self-Servis Özel Bulut
 8. API ile 3. Parti Bileşen Entegrasyonu
