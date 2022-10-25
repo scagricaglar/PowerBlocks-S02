@@ -32,4 +32,5 @@ Bu haftaki [örnekler](./Ornekler/) klasöründe kendi ortamınızda da kullanab
 ## Kaynaklar
 - [Learn Cloud Assembly](https://learncloudassembly.github.io/)
 - [Terraform Kurulumu](https://developer.hashicorp.com/terraform/downloads)
+- [Terraform Provider for VMware vSphere](https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs)
 - [HashiCorp Terraform Eğitimleri](https://developer.hashicorp.com/terraform/tutorials#get-started)
