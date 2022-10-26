@@ -20,6 +20,7 @@ Her bir bölüme ait içeriği ilgili klasörde bulabilir ve dilediğinizce kull
 6. [Infra-as-Code & Terraform](./E06) - 25 Ekim 2022
    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/HRyBDFpkSsB1TvzJseeW76NkfHnFBD5lu2V8DoA1qE6YuuOsLjy3Eg0mEt4vIhMb.D_r74vbLCopNVP3j)
 7. Self-Servis Özel Bulut - 1 Kasım 2022
+   - [Kayıt Linki](https://VMware.zoom.us/webinar/register/6616631553490/WN_pVf5GUewSG-JMLEVnNoISw)
 8. API ile 3. Parti Bileşen Entegrasyonu
 9. Konfigürasyon Yönetimi & SaltStack
 10. Çoklu Bulut Yönetimi
