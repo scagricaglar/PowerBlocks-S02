@@ -21,7 +21,6 @@ Her bir bölüme ait içeriği ilgili klasörde bulabilir ve dilediğinizce kull
    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/HRyBDFpkSsB1TvzJseeW76NkfHnFBD5lu2V8DoA1qE6YuuOsLjy3Eg0mEt4vIhMb.D_r74vbLCopNVP3j)
 7. [Self-Servis Özel Bulut](./E07) - 1 Kasım 2022
    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/sF-ZPKy0JlihtVlhV5y-OT9GNjaIPcIwbiGg8uafe3i-sfptPdQXuqdtSu9p5a6w.RF0YgWys9a0oDO9Y)
-8. API ile 3. Parti Bileşen Entegrasyonu - 8 Kasım 2022
-   - [Kayıt Linki](https://VMware.zoom.us/webinar/register/6616631553490/WN_Ayj5MgjcS7ePDxe-6KrWOg)
-9. Konfigürasyon Yönetimi & SaltStack
+8. [API ile 3. Parti Bileşen Entegrasyonu](./E08) - 8 Kasım 2022
+9. Konfigürasyon Yönetimi & SaltStack - 15 Kasım 2022
 10. Çoklu Bulut Yönetimi
