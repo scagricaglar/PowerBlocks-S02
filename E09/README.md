@@ -32,5 +32,8 @@ Bu haftaki [örnekler](./Ornekler/) klasöründe iki farklı Salt State görecek
   PowerShell Script'i Salt State motoru ile uyumlu şekilde hazırlandığı için *Write-Host* satırları güzel bir uygulama örneğidir.
 
 ## Kaynaklar
-- [Veeam BR 11 Rest API Reference](https://helpcenter.veeam.com/docs/backup/vbr_rest/reference/vbr-rest-v1-rev2.html?ver=110)
-- [Microsoft Graph REST API v1.0 endpoint reference](https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0&preserve-view=true)
+- [Salt Projesi Ana Sayfası](https://saltproject.io/)
+- [Açık kaynak Salt Kurulumu](https://docs.saltproject.io/salt/install-guide/en/latest/)
+- [Açık kaynak Salt Kullanım Klavuzu](https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html)
+- [Salt Modül Listesi](https://docs.saltproject.io/en/latest/py-modindex.html)
+- [VM Tools Salt Minion Aktivasyonu](https://docs.vmware.com/en/VMware-Tools/12.1.0/com.vmware.vsphere.vmwaretools.doc/GUID-373CD922-AF80-4B76-B19B-17F83B8B0972.html)
