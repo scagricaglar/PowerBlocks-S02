@@ -24,4 +24,5 @@ Her bir bölüme ait içeriği ilgili klasörde bulabilir ve dilediğinizce kull
 8. [API ile 3. Parti Bileşen Entegrasyonu](./E08) - 8 Kasım 2022
    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/QLwTPMTkNzisIJtC5dqg4sF6cwst9qDAkHBJMOxpT_x1BvdoyovSyQtjKcv1oJZd.Ulvxg_NcZg5Zxf0o)
 9. [Konfigürasyon Yönetimi & SaltStack](./E09) - 15 Kasım 2022
+   - [Seansın Kaydı](https://VMware.zoom.us/rec/share/q7k63DDR7aZKd2RgrH3KAz1rkjaaUWkeibPbE9PDchNi0k_ESMTcNSPBMuKQZqHL.fjw3WD9aqAnnFtVM)
 10. Çoklu Bulut Yönetimi - 22 Kasım 2022
