@@ -26,4 +26,4 @@ Her bir bölüme ait içeriği ilgili klasörde bulabilir ve dilediğinizce kull
 9. [Konfigürasyon Yönetimi & SaltStack](./E09) - 15 Kasım 2022
    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/q7k63DDR7aZKd2RgrH3KAz1rkjaaUWkeibPbE9PDchNi0k_ESMTcNSPBMuKQZqHL.fjw3WD9aqAnnFtVM)
 10. [Çoklu Bulut Yönetimi - 22 Kasım 2022](./E10/) - 22 Kasım 2022
-   - [Seansın Kaydı](https://VMware.zoom.us/rec/share/a_fy6oiN9cnd1V9CC2Uo52co63_D04Qibt_4P60aVXQyG1TLKmPrPicUDx5__3-F.MwNNQg5LnXJ8AxGQ)
+    - [Seansın Kaydı](https://VMware.zoom.us/rec/share/a_fy6oiN9cnd1V9CC2Uo52co63_D04Qibt_4P60aVXQyG1TLKmPrPicUDx5__3-F.MwNNQg5LnXJ8AxGQ)
